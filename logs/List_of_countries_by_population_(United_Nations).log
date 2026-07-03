@@ -1,0 +1,13 @@
+[2026-06-10 18:42:36] INFO - ════════════════════════════════════════
+[2026-06-10 18:42:36] INFO - Data Extractor — Job Started
+[2026-06-10 18:42:36] INFO - Input  : https://en.wikipedia.org/wiki/List_of_countries_by_population_(United_Nations)
+[2026-06-10 18:42:36] INFO - Mode   : general
+[2026-06-10 18:42:36] INFO - Formats: csv
+[2026-06-10 18:42:36] INFO - ════════════════════════════════════════
+[2026-06-10 18:42:36] INFO - Processing: List_of_countries_by_population_(United_Nations) | Mode: general
+[2026-06-10 18:42:37] INFO - Scraping: https://en.wikipedia.org/wiki/List_of_countries_by_population_(United_Nations)
+[2026-06-10 18:42:39] INFO -   Fetched: https://en.wikipedia.org/wiki/List_of_countries_by_population_(United_Nations) [200]
+[2026-06-10 18:42:39] INFO -   Table 1: 238 row(s), 6 column(s).
+[2026-06-10 18:42:39] INFO -   Table 2: 13 row(s), 2 column(s).
+[2026-06-10 18:42:39] INFO - Scraping complete. 251 total row(s) across 1 URL(s).
+[2026-06-10 18:42:39] INFO - Saved CSV: /home/dashya/data-extractor/output/en_wikipedia_org.csv

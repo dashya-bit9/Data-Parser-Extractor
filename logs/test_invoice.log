@@ -1,0 +1,113 @@
+[2026-06-10  17:55:35] INFO - ════════════════════════════════════════
+[2026-06-10  17:55:35] INFO - Data Extractor — Job Started
+[2026-06-10  17:55:35] INFO - Input  : test_invoice.pdf
+[2026-06-10  17:55:35] INFO - Mode   : invoice
+[2026-06-10  17:55:35] INFO - Formats: csv, xlsx
+[2026-06-10  17:55:35] INFO - ════════════════════════════════════════
+[2026-06-10  17:55:35] INFO - Processing: test_invoice.pdf | Mode: invoice
+[2026-06-10  17:55:35] ERROR - Failed to process test_invoice.pdf: No /Root object! - Is this really a PDF?
+[2026-06-10  18:00:22] INFO - ════════════════════════════════════════
+[2026-06-10  18:00:22] INFO - Data Extractor — Job Started
+[2026-06-10  18:00:22] INFO - Input  : test_invoice.pdf
+[2026-06-10  18:00:22] INFO - Mode   : invoice
+[2026-06-10  18:00:22] INFO - Formats: csv, xlsx
+[2026-06-10  18:00:22] INFO - ════════════════════════════════════════
+[2026-06-10  18:00:22] INFO - Processing: test_invoice.pdf | Mode: invoice
+[2026-06-10  18:00:22] ERROR - Failed to process test_invoice.pdf: maximum recursion depth exceeded
+[2026-06-10  18:01:41] INFO - ════════════════════════════════════════
+[2026-06-10  18:01:41] INFO - Data Extractor — Job Started
+[2026-06-10  18:01:41] INFO - Input  : test_invoice.pdf
+[2026-06-10  18:01:41] INFO - Mode   : invoice
+[2026-06-10  18:01:41] INFO - Formats: csv, xlsx
+[2026-06-10  18:01:41] INFO - ════════════════════════════════════════
+[2026-06-10  18:01:41] INFO - Processing: test_invoice.pdf | Mode: invoice
+[2026-06-10  18:01:41] ERROR - Failed to process test_invoice.pdf: maximum recursion depth exceeded
+[2026-06-10  18:07:36] INFO - ════════════════════════════════════════
+[2026-06-10  18:07:36] INFO - Data Extractor — Job Started
+[2026-06-10  18:07:36] INFO - Input  : test_invoice.pdf
+[2026-06-10  18:07:36] INFO - Mode   : invoice
+[2026-06-10  18:07:36] INFO - Formats: csv, xlsx
+[2026-06-10  18:07:36] INFO - ════════════════════════════════════════
+[2026-06-10  18:07:36] INFO - Processing: test_invoice.pdf | Mode: invoice
+[2026-06-10  18:07:36] ERROR - Failed to process test_invoice.pdf: maximum recursion depth exceeded
+[2026-06-10  18:12:26] INFO - ════════════════════════════════════════
+[2026-06-10  18:12:26] INFO - Data Extractor — Job Started
+[2026-06-10  18:12:26] INFO - Input  : test_invoice.pdf
+[2026-06-10  18:12:26] INFO - Mode   : invoice
+[2026-06-10  18:12:26] INFO - Formats: csv, xlsx
+[2026-06-10  18:12:26] INFO - ════════════════════════════════════════
+[2026-06-10  18:12:26] INFO - Processing: test_invoice.pdf | Mode: invoice
+[2026-06-10  18:12:26] ERROR - Failed to process test_invoice.pdf: maximum recursion depth exceeded
+[2026-06-10  18:14:15] INFO - ════════════════════════════════════════
+[2026-06-10  18:14:15] INFO - Data Extractor — Job Started
+[2026-06-10  18:14:15] INFO - Input  : test_invoice.pdf
+[2026-06-10  18:14:15] INFO - Mode   : invoice
+[2026-06-10  18:14:15] INFO - Formats: csv, xlsx
+[2026-06-10  18:14:15] INFO - ════════════════════════════════════════
+[2026-06-10  18:14:15] INFO - Processing: test_invoice.pdf | Mode: invoice
+[2026-06-10  18:14:15] ERROR - Failed to process test_invoice.pdf: 'dict' object is not callable
+[2026-06-10  18:15:26] INFO - ════════════════════════════════════════
+[2026-06-10  18:15:26] INFO - Data Extractor — Job Started
+[2026-06-10  18:15:26] INFO - Input  : test_invoice.pdf
+[2026-06-10  18:15:26] INFO - Mode   : invoice
+[2026-06-10  18:15:26] INFO - Formats: csv, xlsx
+[2026-06-10  18:15:26] INFO - ════════════════════════════════════════
+[2026-06-10  18:15:26] INFO - Processing: test_invoice.pdf | Mode: invoice
+[2026-06-10  18:15:27] INFO - Found 1 table(s) across 1 page(s)
+[2026-06-10  18:15:27] ERROR - Failed to process test_invoice.pdf: No module named 'modes.invoice_mode'
+[2026-06-10  18:16:47] INFO - ════════════════════════════════════════
+[2026-06-10  18:16:47] INFO - Data Extractor — Job Started
+[2026-06-10  18:16:47] INFO - Input  : test_invoice.pdf
+[2026-06-10  18:16:47] INFO - Mode   : invoice
+[2026-06-10  18:16:47] INFO - Formats: csv, xlsx
+[2026-06-10  18:16:47] INFO - ════════════════════════════════════════
+[2026-06-10  18:16:47] INFO - Processing: test_invoice.pdf | Mode: invoice
+[2026-06-10  18:16:48] INFO - Found 1 table(s) across 1 page(s)
+[2026-06-10  18:16:48] ERROR - Failed to process test_invoice.pdf: No module named 'modes.invoice_mode'
+[2026-06-10  18:20:27] INFO - ════════════════════════════════════════
+[2026-06-10  18:20:27] INFO - Data Extractor — Job Started
+[2026-06-10  18:20:27] INFO - Input  : test_invoice.pdf
+[2026-06-10  18:20:27] INFO - Mode   : invoice
+[2026-06-10  18:20:27] INFO - Formats: csv, xlsx
+[2026-06-10  18:20:27] INFO - ════════════════════════════════════════
+[2026-06-10  18:20:27] INFO - Processing: test_invoice.pdf | Mode: invoice
+[2026-06-10  18:20:27] INFO - Found 1 table(s) across 1 page(s)
+[2026-06-10  18:20:27] INFO - Invoice mode activated.
+[2026-06-10  18:20:27] INFO - Mapped columns: {'Description': 'description', 'Quantity': 'quantity', 'Unit Price': 'unit_price', 'Amount': 'amount'}
+[2026-06-10  18:20:27] INFO - Cleaned numeric column: unit_price
+[2026-06-10  18:20:27] INFO - Cleaned numeric column: amount
+[2026-06-10  18:20:27] INFO - Cleaned numeric column: quantity
+[2026-06-10  18:20:27] INFO - ─── Invoice Summary ───────────────────────
+[2026-06-10  18:20:27] INFO - ───────────────────────────────────────────
+[2026-06-10  18:20:27] INFO - Invoice processing complete. 6 row(s) returned.
+[2026-06-10  18:20:27] INFO - Saved CSV: /home/dashya/data-extractor/output/test_invoice.csv
+[2026-06-10  18:20:27] INFO - Saved XLSX: /home/dashya/data-extractor/output/test_invoice.xlsx
+[2026-06-10 18:40:28] INFO - ════════════════════════════════════════
+[2026-06-10 18:40:28] INFO - Data Extractor — Job Started
+[2026-06-10 18:40:28] INFO - Input  : test_invoice.pdf
+[2026-06-10 18:40:28] INFO - Mode   : invoice
+[2026-06-10 18:40:28] INFO - Formats: csv, xlsx
+[2026-06-10 18:40:28] INFO - ════════════════════════════════════════
+[2026-06-10 18:40:28] INFO - Processing: test_invoice.pdf | Mode: invoice
+[2026-06-10 18:40:28] INFO - Found 1 table(s) across 1 page(s).
+[2026-06-10 18:40:28] INFO - Invoice mode activated.
+[2026-06-10 18:40:28] INFO - Mapped columns: {'Description': 'description', 'Quantity': 'quantity', 'Unit Price': 'unit_price', 'Amount': 'amount'}
+[2026-06-10 18:40:28] INFO - Cleaned numeric column: unit_price
+[2026-06-10 18:40:28] INFO - Cleaned numeric column: amount
+[2026-06-10 18:40:28] INFO - Cleaned numeric column: quantity
+[2026-06-10 18:40:28] INFO - ─── Invoice Summary ───────────────────────
+[2026-06-10 18:40:28] INFO - ───────────────────────────────────────────
+[2026-06-10 18:40:28] INFO - Invoice processing complete. 6 row(s) returned.
+[2026-06-10 18:40:28] INFO - Saved CSV: /home/dashya/data-extractor/output/test_invoice.csv
+[2026-06-10 18:40:29] INFO - Saved XLSX: /home/dashya/data-extractor/output/test_invoice.xlsx
+[2026-06-10 18:40:46] INFO - ════════════════════════════════════════
+[2026-06-10 18:40:46] INFO - Data Extractor — Job Started
+[2026-06-10 18:40:46] INFO - Input  : test_invoice.pdf
+[2026-06-10 18:40:46] INFO - Mode   : general
+[2026-06-10 18:40:46] INFO - Formats: csv, json, xlsx
+[2026-06-10 18:40:46] INFO - ════════════════════════════════════════
+[2026-06-10 18:40:46] INFO - Processing: test_invoice.pdf | Mode: general
+[2026-06-10 18:40:47] INFO - Found 1 table(s) across 1 page(s).
+[2026-06-10 18:40:47] INFO - Saved CSV: /home/dashya/data-extractor/output/test_invoice.csv
+[2026-06-10 18:40:47] INFO - Saved JSON: /home/dashya/data-extractor/output/test_invoice.json
+[2026-06-10 18:40:48] INFO - Saved XLSX: /home/dashya/data-extractor/output/test_invoice.xlsx

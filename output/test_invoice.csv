@@ -1,0 +1,7 @@
+sheet,page,description,quantity,unit_price,amount,duplicate_row
+Sheet1,1,Web Development,1.0,"$1,500.00","$1,500.00",False
+Sheet1,1,UI Design,2.0,$500.00,"$1,000.00",False
+Sheet1,1,API Integration,3.0,$300.00,$900.00,False
+Sheet1,1,SEO Optimization,1.0,$250.00,$250.00,False
+Sheet1,1,Tax (10%),,,$365.00,False
+Sheet1,1,Grand Total,,,"$4,015.00",False

@@ -1,0 +1,91 @@
+[2026-06-10 18:44:02] INFO - ════════════════════════════════════════
+[2026-06-10 18:44:02] INFO - Data Extractor — Job Started
+[2026-06-10 18:44:02] INFO - Input  : ./output
+[2026-06-10 18:44:02] INFO - Mode   : general
+[2026-06-10 18:44:02] INFO - Formats: csv
+[2026-06-10 18:44:02] INFO - ════════════════════════════════════════
+[2026-06-10 18:44:02] INFO - Batch job started: 3 file(s) found.
+[2026-06-10 18:44:02] INFO - Processing: test_invoice.csv | Mode: general
+[2026-06-10 18:44:04] ERROR - Failed to process test_invoice.csv: No module named 'modules.excel_cleaner'
+[2026-06-10 18:44:04] INFO - Processing: test_invoice.xlsx | Mode: general
+[2026-06-10 18:44:04] ERROR - Failed to process test_invoice.xlsx: No module named 'modules.excel_cleaner'
+[2026-06-10 18:44:04] INFO - Processing: en_wikipedia_org.csv | Mode: general
+[2026-06-10 18:44:04] ERROR - Failed to process en_wikipedia_org.csv: No module named 'modules.excel_cleaner'
+[2026-06-10 18:47:20] INFO - ════════════════════════════════════════
+[2026-06-10 18:47:20] INFO - Data Extractor — Job Started
+[2026-06-10 18:47:20] INFO - Input  : ./output
+[2026-06-10 18:47:20] INFO - Mode   : general
+[2026-06-10 18:47:20] INFO - Formats: csv
+[2026-06-10 18:47:20] INFO - ════════════════════════════════════════
+[2026-06-10 18:47:20] INFO - Batch job started: 3 file(s) found.
+[2026-06-10 18:47:20] INFO - Processing: test_invoice.csv | Mode: general
+[2026-06-10 18:47:22] INFO - Opening spreadsheet: test_invoice.csv
+[2026-06-10 18:47:22] INFO -   Loaded CSV: 6 row(s), 5 column(s).
+[2026-06-10 18:47:22] INFO - Cleaning sheet: 'Sheet1'
+[2026-06-10 18:47:22] ERROR - Failed to process test_invoice.csv: 'DataFrame' object has no attribute 'applymap'
+[2026-06-10 18:47:22] INFO - Processing: test_invoice.xlsx | Mode: general
+[2026-06-10 18:47:22] INFO - Opening spreadsheet: test_invoice.xlsx
+[2026-06-10 18:47:23] INFO -   Loaded sheet 'Sheet1': 6 row(s), 5 column(s).
+[2026-06-10 18:47:23] INFO - Cleaning sheet: 'Sheet1'
+[2026-06-10 18:47:23] ERROR - Failed to process test_invoice.xlsx: 'DataFrame' object has no attribute 'applymap'
+[2026-06-10 18:47:23] INFO - Processing: en_wikipedia_org.csv | Mode: general
+[2026-06-10 18:47:23] INFO - Opening spreadsheet: en_wikipedia_org.csv
+[2026-06-10 18:47:23] INFO -   Loaded CSV: 251 row(s), 8 column(s).
+[2026-06-10 18:47:23] INFO - Cleaning sheet: 'Sheet1'
+[2026-06-10 18:47:23] ERROR - Failed to process en_wikipedia_org.csv: 'DataFrame' object has no attribute 'applymap'
+[2026-06-10 18:49:43] INFO - ════════════════════════════════════════
+[2026-06-10 18:49:43] INFO - Data Extractor — Job Started
+[2026-06-10 18:49:43] INFO - Input  : ./output
+[2026-06-10 18:49:43] INFO - Mode   : general
+[2026-06-10 18:49:43] INFO - Formats: csv
+[2026-06-10 18:49:43] INFO - ════════════════════════════════════════
+[2026-06-10 18:49:43] INFO - Batch job started: 3 file(s) found.
+[2026-06-10 18:49:43] INFO - Processing: test_invoice.csv | Mode: general
+[2026-06-10 18:49:45] INFO - Opening spreadsheet: test_invoice.csv
+[2026-06-10 18:49:45] INFO -   Loaded CSV: 6 row(s), 5 column(s).
+[2026-06-10 18:49:45] INFO - Cleaning sheet: 'Sheet1'
+[2026-06-10 18:49:45] INFO -   Cleaned whitespace in all cells.
+[2026-06-10 18:49:45] INFO -   Normalized column names to snake_case.
+[2026-06-10 18:49:45] INFO -   Converted 'page' to numeric.
+[2026-06-10 18:49:45] INFO -   Converted 'quantity' to numeric.
+[2026-06-10 18:49:45] INFO -   No duplicate rows found.
+[2026-06-10 18:49:45] INFO - ─── Sheet Summary: Sheet1 ───────────────
+[2026-06-10 18:49:45] INFO -   Rows             : 6
+[2026-06-10 18:49:45] INFO -   Columns          : 6
+[2026-06-10 18:49:45] INFO -   Duplicates       : 0
+[2026-06-10 18:49:45] WARNING -   Missing values in 'quantity': 2
+[2026-06-10 18:49:45] INFO - ───────────────────────────────────────────
+[2026-06-10 18:49:45] INFO - Found 1 table(s) across 1 page(s).
+[2026-06-10 18:49:45] INFO - Saved CSV: /home/dashya/data-extractor/output/test_invoice.csv
+[2026-06-10 18:49:45] INFO - Processing: test_invoice.xlsx | Mode: general
+[2026-06-10 18:49:45] INFO - Opening spreadsheet: test_invoice.xlsx
+[2026-06-10 18:49:47] INFO -   Loaded sheet 'Sheet1': 6 row(s), 5 column(s).
+[2026-06-10 18:49:47] INFO - Cleaning sheet: 'Sheet1'
+[2026-06-10 18:49:47] INFO -   Cleaned whitespace in all cells.
+[2026-06-10 18:49:47] INFO -   Normalized column names to snake_case.
+[2026-06-10 18:49:47] INFO -   Converted 'page' to numeric.
+[2026-06-10 18:49:47] INFO -   Converted 'quantity' to numeric.
+[2026-06-10 18:49:47] INFO -   No duplicate rows found.
+[2026-06-10 18:49:47] INFO - ─── Sheet Summary: Sheet1 ───────────────
+[2026-06-10 18:49:47] INFO -   Rows             : 6
+[2026-06-10 18:49:47] INFO -   Columns          : 6
+[2026-06-10 18:49:47] INFO -   Duplicates       : 0
+[2026-06-10 18:49:47] WARNING -   Missing values in 'quantity': 2
+[2026-06-10 18:49:47] INFO - ───────────────────────────────────────────
+[2026-06-10 18:49:47] INFO - Found 1 table(s) across 1 page(s).
+[2026-06-10 18:49:47] INFO - Saved CSV: /home/dashya/data-extractor/output/test_invoice.csv
+[2026-06-10 18:49:47] INFO - Processing: en_wikipedia_org.csv | Mode: general
+[2026-06-10 18:49:47] INFO - Opening spreadsheet: en_wikipedia_org.csv
+[2026-06-10 18:49:47] INFO -   Loaded CSV: 251 row(s), 8 column(s).
+[2026-06-10 18:49:47] INFO - Cleaning sheet: 'Sheet1'
+[2026-06-10 18:49:47] INFO -   Cleaned whitespace in all cells.
+[2026-06-10 18:49:48] WARNING -   Possible misplaced header detected at row 238. Consider manually inspecting the source file.
+[2026-06-10 18:49:48] INFO -   Normalized column names to snake_case.
+[2026-06-10 18:49:48] INFO -   No duplicate rows found.
+[2026-06-10 18:49:48] INFO - ─── Sheet Summary: Sheet1 ───────────────
+[2026-06-10 18:49:48] INFO -   Rows             : 251
+[2026-06-10 18:49:48] INFO -   Columns          : 9
+[2026-06-10 18:49:48] INFO -   Duplicates       : 0
+[2026-06-10 18:49:48] INFO - ───────────────────────────────────────────
+[2026-06-10 18:49:48] INFO - Found 1 table(s) across 1 page(s).
+[2026-06-10 18:49:48] INFO - Saved CSV: /home/dashya/data-extractor/output/en_wikipedia_org.csv

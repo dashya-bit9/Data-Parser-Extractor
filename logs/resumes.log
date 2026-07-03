@@ -1,0 +1,8 @@
+[2026-06-10  18:25:36] INFO - ════════════════════════════════════════
+[2026-06-10  18:25:36] INFO - Data Extractor — Job Started
+[2026-06-10  18:25:36] INFO - Input  : resumes.pdf
+[2026-06-10  18:25:36] INFO - Mode   : resume
+[2026-06-10  18:25:36] INFO - Formats: csv, xlsx
+[2026-06-10  18:25:36] INFO - ════════════════════════════════════════
+[2026-06-10  18:25:36] INFO - Processing: resumes.pdf | Mode: resume
+[2026-06-10  18:25:36] ERROR - Failed to process resumes.pdf: PDF not found: resumes.pdf

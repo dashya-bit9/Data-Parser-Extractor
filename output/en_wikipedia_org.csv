@@ -1,0 +1,252 @@
+sheet,country_or_territory,population1_july_2022,population1_july_2023,change,un_continentalregion1,un_statisticalsubregion1,vtelists_of_countriesbypopulation_statistics,col_2,duplicate_row
+Sheet1,World,"8,021,407,192","8,091,734,930",+0.88%,–,–,,,False
+Sheet1,India,"1,425,423,212","1,438,069,596",+0.89%,Asia,Southern Asia,,,False
+Sheet1,China[a],"1,425,179,569","1,422,584,933",−0.18%,Asia,Eastern Asia,,,False
+Sheet1,United States,"341,534,046","343,477,335",+0.57%,Americas,Northern America,,,False
+Sheet1,Indonesia,"278,830,529","281,190,067",+0.85%,Asia,South-eastern Asia,,,False
+Sheet1,Pakistan,"243,700,667","247,504,495",+1.56%,Asia,Southern Asia,,,False
+Sheet1,Nigeria,"223,150,896","227,882,945",+2.12%,Africa,Western Africa,,,False
+Sheet1,Brazil,"210,306,415","211,140,729",+0.40%,Americas,South America,,,False
+Sheet1,Bangladesh,"169,384,897","171,466,990",+1.23%,Asia,Southern Asia,,,False
+Sheet1,Russia,"145,579,899","145,440,500",−0.10%,Europe,Eastern Europe,,,False
+Sheet1,Mexico,"128,613,117","129,739,759",+0.88%,Americas,Central America,,,False
+Sheet1,Ethiopia,"125,384,287","128,691,692",+2.64%,Africa,Eastern Africa,,,False
+Sheet1,Japan,"124,997,578","124,370,947",−0.50%,Asia,Eastern Asia,,,False
+Sheet1,Philippines,"113,964,338","114,891,199",+0.81%,Asia,South-eastern Asia,,,False
+Sheet1,Egypt,"112,618,250","114,535,772",+1.70%,Africa,Northern Africa,,,False
+Sheet1,DR Congo,"102,396,968","105,789,731",+3.31%,Africa,Middle Africa,,,False
+Sheet1,Vietnam,"99,680,655","100,352,192",+0.67%,Asia,South-eastern Asia,,,False
+Sheet1,Iran,"89,524,246","90,608,707",+1.21%,Asia,Southern Asia,,,False
+Sheet1,Turkey,"87,058,473","87,270,501",+0.24%,Asia,Western Asia,,,False
+Sheet1,Germany,"84,086,227","84,548,231",+0.55%,Europe,Western Europe,,,False
+Sheet1,Thailand,"71,735,329","71,702,435",−0.05%,Asia,South-eastern Asia,,,False
+Sheet1,United Kingdom,"68,179,315","68,682,962",+0.74%,Europe,Northern Europe,,,False
+Sheet1,Tanzania[b],"64,711,821","66,617,606",+2.95%,Africa,Eastern Africa,,,False
+Sheet1,France[c],"66,277,409","66,438,822",+0.24%,Europe,Western Europe,,,False
+Sheet1,South Africa,"62,378,410","63,212,384",+1.34%,Africa,Southern Africa,,,False
+Sheet1,Italy,"59,619,115","59,499,453",−0.20%,Europe,Southern Europe,,,False
+Sheet1,Kenya,"54,252,461","55,339,003",+2.00%,Africa,Eastern Africa,,,False
+Sheet1,Myanmar,"53,756,787","54,133,798",+0.70%,Asia,South-eastern Asia,,,False
+Sheet1,Colombia,"51,737,944","52,321,152",+1.13%,Americas,South America,,,False
+Sheet1,South Korea,"51,782,512","51,748,739",−0.07%,Asia,Eastern Asia,,,False
+Sheet1,Sudan,"49,383,346","50,042,791",+1.34%,Africa,Northern Africa,,,False
+Sheet1,Uganda,"47,312,719","48,656,601",+2.84%,Africa,Eastern Africa,,,False
+Sheet1,Spain[d],"47,828,382","47,911,579",+0.17%,Europe,Southern Europe,,,False
+Sheet1,Algeria,"45,477,389","46,164,219",+1.51%,Africa,Northern Africa,,,False
+Sheet1,Argentina,"45,407,904","45,538,401",+0.29%,Americas,South America,,,False
+Sheet1,Iraq,"44,070,551","45,074,049",+2.28%,Asia,Western Asia,,,False
+Sheet1,Afghanistan,"40,578,842","41,454,761",+2.16%,Asia,Southern Asia,,,False
+Sheet1,Yemen,"38,222,876","39,390,799",+3.06%,Asia,Western Asia,,,False
+Sheet1,Canada,"38,821,259","39,299,105",+1.23%,Americas,Northern America,,,False
+Sheet1,Poland,"38,385,739","38,762,844",+0.98%,Europe,Eastern Europe,,,False
+Sheet1,Ukraine[e],"41,048,766","37,732,836",−8.08%,Europe,Eastern Europe,,,False
+Sheet1,Morocco,"37,329,064","37,712,505",+1.03%,Africa,Northern Africa,,,False
+Sheet1,Angola,"35,635,029","36,749,906",+3.13%,Africa,Middle Africa,,,False
+Sheet1,Uzbekistan,"34,938,955","35,652,307",+2.04%,Asia,Central Asia,,,False
+Sheet1,Malaysia,"34,695,493","35,126,298",+1.24%,Asia,South-eastern Asia,,,False
+Sheet1,Peru,"33,475,438","33,845,617",+1.11%,Americas,South America,,,False
+Sheet1,Ghana,"33,149,152","33,787,914",+1.93%,Africa,Western Africa,,,False
+Sheet1,Mozambique,"32,656,246","33,635,160",+3.00%,Africa,Eastern Africa,,,False
+Sheet1,Saudi Arabia,"32,175,352","32,264,292",+0.28%,Asia,Western Asia,,,False
+Sheet1,Madagascar,"30,437,261","31,195,932",+2.49%,Africa,Eastern Africa,,,False
+Sheet1,Ivory Coast,"30,395,002","31,165,654",+2.54%,Africa,Western Africa,,,False
+Sheet1,Nepal,"29,715,436","29,964,614",+0.84%,Asia,Southern Asia,,,False
+Sheet1,Cameroon,"27,632,771","28,372,687",+2.68%,Africa,Middle Africa,,,False
+Sheet1,Venezuela,"28,213,017","28,300,854",+0.31%,Americas,South America,,,False
+Sheet1,Australia[f],"26,200,984","26,451,124",+0.95%,Oceania,Australia and New Zealand,,,False
+Sheet1,North Korea,"26,329,845","26,418,204",+0.34%,Asia,Eastern Asia,,,False
+Sheet1,Niger,"25,311,973","26,159,867",+3.35%,Africa,Western Africa,,,False
+Sheet1,Mali,"23,072,640","23,769,127",+3.02%,Africa,Western Africa,,,False
+Sheet1,Syria,"22,462,173","23,594,623",+5.04%,Asia,Western Asia,,,False
+Sheet1,Taiwan[g],"23,420,111","23,317,145",−0.44%,Asia,Eastern Asia,,,False
+Sheet1,Burkina Faso,"22,509,038","23,025,776",+2.30%,Africa,Western Africa,,,False
+Sheet1,Sri Lanka,"22,834,965","22,971,617",+0.60%,Asia,Southern Asia,,,False
+Sheet1,Malawi,"20,568,728","21,104,482",+2.60%,Africa,Eastern Africa,,,False
+Sheet1,Zambia,"20,152,938","20,723,965",+2.83%,Africa,Eastern Africa,,,False
+Sheet1,Kazakhstan,"20,034,609","20,330,104",+1.47%,Asia,Central Asia,,,False
+Sheet1,Chile,"19,553,036","19,658,835",+0.54%,Americas,South America,,,False
+Sheet1,Chad,"18,455,316","19,319,064",+4.68%,Africa,Middle Africa,,,False
+Sheet1,Romania,"19,166,772","19,118,479",−0.25%,Europe,Eastern Europe,,,False
+Sheet1,Somalia[h],"17,801,897","18,358,615",+3.13%,Africa,Eastern Africa,,,False
+Sheet1,Guatemala,"17,847,877","18,124,838",+1.55%,Americas,Central America,,,False
+Sheet1,Senegal,"17,651,103","18,077,573",+2.42%,Africa,Western Africa,,,False
+Sheet1,Netherlands[i],"17,904,421","18,092,524",+1.05%,Europe,Western Europe,,,False
+Sheet1,Ecuador,"17,823,897","17,980,083",+0.88%,Americas,South America,,,False
+Sheet1,Cambodia,"17,201,724","17,423,880",+1.29%,Asia,South-eastern Asia,,,False
+Sheet1,Zimbabwe,"16,069,056","16,340,822",+1.69%,Africa,Eastern Africa,,,False
+Sheet1,Guinea,"14,055,137","14,405,465",+2.49%,Africa,Western Africa,,,False
+Sheet1,Benin,"13,759,501","14,111,034",+2.55%,Africa,Western Africa,,,False
+Sheet1,Rwanda,"13,651,030","13,954,471",+2.22%,Africa,Eastern Africa,,,False
+Sheet1,Burundi,"13,321,097","13,689,450",+2.77%,Africa,Eastern Africa,,,False
+Sheet1,Bolivia,"12,077,154","12,244,159",+1.38%,Americas,South America,,,False
+Sheet1,Tunisia,"12,119,334","12,200,431",+0.67%,Africa,Northern Africa,,,False
+Sheet1,Belgium,"11,641,820","11,712,893",+0.61%,Europe,Western Europe,,,False
+Sheet1,Haiti,"11,503,606","11,637,398",+1.16%,Americas,Caribbean,,,False
+Sheet1,South Sudan,"11,021,177","11,483,374",+4.19%,Africa,Eastern Africa,,,False
+Sheet1,Jordan,"11,256,263","11,439,213",+1.63%,Asia,Western Asia,,,False
+Sheet1,Dominican Republic,"11,230,734","11,331,265",+0.90%,Americas,Caribbean,,,False
+Sheet1,Cuba,"11,059,820","11,019,931",−0.36%,Americas,Caribbean,,,False
+Sheet1,Czechia,"10,673,213","10,809,716",+1.28%,Europe,Eastern Europe,,,False
+Sheet1,Honduras,"10,463,872","10,644,851",+1.73%,Americas,Central America,,,False
+Sheet1,United Arab Emirates,"10,242,086","10,642,081",+3.91%,Asia,Western Asia,,,False
+Sheet1,Sweden,"10,487,338","10,551,494",+0.61%,Europe,Northern Europe,,,False
+Sheet1,Portugal[j],"10,417,073","10,430,738",+0.13%,Europe,Southern Europe,,,False
+Sheet1,Tajikistan,"10,182,222","10,389,799",+2.04%,Asia,Central Asia,,,False
+Sheet1,Papua New Guinea,"10,203,169","10,389,635",+1.83%,Oceania,Melanesia,,,False
+Sheet1,Azerbaijan,"10,295,304","10,318,207",+0.22%,Asia,Western Asia,,,False
+Sheet1,Greece,"10,412,480","10,242,908",−1.63%,Europe,Southern Europe,,,False
+Sheet1,Hungary,"9,964,306","9,686,463",−2.79%,Europe,Eastern Europe,,,False
+Sheet1,Togo,"9,089,738","9,304,337",+2.36%,Africa,Western Africa,,,False
+Sheet1,Israel,"9,103,151","9,256,314",+1.68%,Asia,Western Asia,,,False
+Sheet1,Austria,"9,064,677","9,130,429",+0.73%,Europe,Western Europe,,,False
+Sheet1,Belarus,"9,173,237","9,115,680",−0.63%,Europe,Eastern Europe,,,False
+Sheet1,Switzerland,"8,792,182","8,870,561",+0.89%,Europe,Western Europe,,,False
+Sheet1,Sierra Leone,"8,276,807","8,460,512",+2.22%,Africa,Western Africa,,,False
+Sheet1,Laos,"7,559,007","7,664,993",+1.40%,Asia,South-eastern Asia,,,False
+Sheet1,Hong Kong(China)[k],"7,465,915","7,442,734",−0.31%,Asia,Eastern Asia,,,False
+Sheet1,Turkmenistan,"7,230,193","7,364,438",+1.86%,Asia,Central Asia,,,False
+Sheet1,Libya,"7,223,805","7,305,659",+1.13%,Africa,Northern Africa,,,False
+Sheet1,Kyrgyzstan,"6,955,788","7,073,516",+1.69%,Asia,Central Asia,,,False
+Sheet1,Paraguay,"6,760,464","6,844,146",+1.24%,Americas,South America,,,False
+Sheet1,Nicaragua,"6,730,654","6,823,613",+1.38%,Americas,Central America,,,False
+Sheet1,Bulgaria,"6,825,864","6,795,803",−0.44%,Europe,Eastern Europe,,,False
+Sheet1,Serbia[l],"6,791,213","6,773,201",−0.27%,Europe,Southern Europe,,,False
+Sheet1,El Salvador,"6,280,319","6,309,624",+0.47%,Americas,Central America,,,False
+Sheet1,Congo,"6,035,104","6,182,885",+2.45%,Africa,Middle Africa,,,False
+Sheet1,Denmark,"5,902,904","5,948,136",+0.77%,Europe,Northern Europe,,,False
+Sheet1,Singapore,"5,649,885","5,789,090",+2.46%,Asia,South-eastern Asia,,,False
+Sheet1,Lebanon,"5,744,489","5,733,493",−0.19%,Asia,Western Asia,,,False
+Sheet1,Finland[m],"5,569,299","5,601,185",+0.57%,Europe,Northern Europe,,,False
+Sheet1,Norway[n],"5,457,801","5,519,167",+1.12%,Europe,Northern Europe,,,False
+Sheet1,Slovakia,"5,473,197","5,518,055",+0.82%,Europe,Eastern Europe,,,False
+Sheet1,Liberia,"5,373,294","5,493,031",+2.23%,Africa,Western Africa,,,False
+Sheet1,Palestine[o],"5,305,270","5,409,202",+1.96%,Asia,Western Asia,,,False
+Sheet1,Ireland,"5,110,016","5,196,630",+1.69%,Europe,Northern Europe,,,False
+Sheet1,New Zealand,"5,131,734","5,172,836",+0.80%,Oceania,Australia and New Zealand,,,False
+Sheet1,Central African Republic,"5,098,039","5,152,421",+1.07%,Africa,Middle Africa,,,False
+Sheet1,Costa Rica,"5,081,765","5,105,525",+0.47%,Americas,Central America,,,False
+Sheet1,Oman,"4,730,226","5,049,269",+6.74%,Asia,Western Asia,,,False
+Sheet1,Mauritania,"4,875,637","5,022,441",+3.01%,Africa,Western Africa,,,False
+Sheet1,Kuwait,"4,589,511","4,838,782",+5.43%,Asia,Western Asia,,,False
+Sheet1,Panama,"4,400,773","4,458,759",+1.32%,Americas,Central America,,,False
+Sheet1,Croatia,"3,907,027","3,896,023",−0.28%,Europe,Southern Europe,,,False
+Sheet1,Georgia[p],"3,794,784","3,807,492",+0.33%,Asia,Western Asia,,,False
+Sheet1,Eritrea,"3,409,447","3,470,390",+1.79%,Africa,Eastern Africa,,,False
+Sheet1,Mongolia,"3,386,015","3,431,932",+1.36%,Asia,Eastern Asia,,,False
+Sheet1,Uruguay,"3,390,913","3,388,081",−0.08%,Americas,South America,,,False
+Sheet1,Puerto Rico(United States),"3,240,968","3,242,023",+0.03%,Americas,Caribbean,,,False
+Sheet1,Bosnia and Herzegovina,"3,204,802","3,185,073",−0.62%,Europe,Southern Europe,,,False
+Sheet1,Moldova[q],"3,039,985","3,067,070",+0.89%,Europe,Eastern Europe,,,False
+Sheet1,Qatar,"2,892,455","2,979,082",+2.99%,Asia,Western Asia,,,False
+Sheet1,Namibia,"2,889,662","2,963,095",+2.54%,Africa,Southern Africa,,,False
+Sheet1,Armenia,"2,880,874","2,943,393",+2.17%,Asia,Western Asia,,,False
+Sheet1,Lithuania,"2,816,919","2,854,099",+1.32%,Europe,Northern Europe,,,False
+Sheet1,Jamaica,"2,839,144","2,839,786",+0.02%,Americas,Caribbean,,,False
+Sheet1,Albania,"2,827,608","2,811,655",−0.56%,Europe,Southern Europe,,,False
+Sheet1,Gambia,"2,636,470","2,697,845",+2.33%,Africa,Western Africa,,,False
+Sheet1,Gabon,"2,430,747","2,484,789",+2.22%,Africa,Middle Africa,,,False
+Sheet1,Botswana,"2,439,892","2,480,244",+1.65%,Africa,Southern Africa,,,False
+Sheet1,Lesotho,"2,286,110","2,311,472",+1.11%,Africa,Southern Africa,,,False
+Sheet1,Guinea-Bissau,"2,105,529","2,153,339",+2.27%,Africa,Western Africa,,,False
+Sheet1,Slovenia,"2,115,228","2,118,396",+0.15%,Europe,Southern Europe,,,False
+Sheet1,Latvia,"1,881,063","1,882,396",+0.07%,Europe,Northern Europe,,,False
+Sheet1,Equatorial Guinea,"1,803,545","1,847,549",+2.44%,Africa,Middle Africa,,,False
+Sheet1,North Macedonia,"1,840,233","1,831,802",−0.46%,Europe,Southern Europe,,,False
+Sheet1,Kosovo[r],"1,717,946","1,700,031",−1.04%,Europe,Southern Europe,,,False
+Sheet1,Bahrain,"1,533,459","1,569,666",+2.36%,Asia,Western Asia,,,False
+Sheet1,Trinidad and Tobago,"1,495,921","1,502,932",+0.47%,Americas,Caribbean,,,False
+Sheet1,Timor-Leste,"1,369,295","1,384,286",+1.09%,Asia,South-eastern Asia,,,False
+Sheet1,Estonia,"1,350,091","1,367,196",+1.27%,Europe,Northern Europe,,,False
+Sheet1,Cyprus[s],"1,331,370","1,344,976",+1.02%,Asia,Western Asia,,,False
+Sheet1,Mauritius,"1,276,130","1,273,588",−0.20%,Africa,Eastern Africa,,,False
+Sheet1,Eswatini,"1,218,917","1,230,506",+0.95%,Africa,Southern Africa,,,False
+Sheet1,Djibouti,"1,137,096","1,152,944",+1.39%,Africa,Eastern Africa,,,False
+Sheet1,Fiji,"919,422","924,145",+0.51%,Oceania,Melanesia,,,False
+Sheet1,Réunion(France),"871,540","874,883",+0.38%,Africa,Eastern Africa,,,False
+Sheet1,Comoros,"834,188","850,387",+1.94%,Africa,Eastern Africa,,,False
+Sheet1,Guyana,"821,637","826,353",+0.57%,Americas,South America,,,False
+Sheet1,Solomon Islands,"781,066","800,005",+2.42%,Oceania,Melanesia,,,False
+Sheet1,Bhutan,"780,914","786,385",+0.70%,Asia,Southern Asia,,,False
+Sheet1,Macao(China)[t],"704,356","713,912",+1.36%,Asia,Eastern Asia,,,False
+Sheet1,Luxembourg,"653,313","665,098",+1.80%,Europe,Western Europe,,,False
+Sheet1,Montenegro,"614,648","633,552",+3.08%,Europe,Southern Europe,,,False
+Sheet1,Suriname,"623,164","628,886",+0.92%,Americas,South America,,,False
+Sheet1,Western Sahara(disputed),"568,739","579,729",+1.93%,Africa,Northern Africa,,,False
+Sheet1,Malta,"528,192","532,956",+0.90%,Europe,Southern Europe,,,False
+Sheet1,Maldives,"524,106","525,994",+0.36%,Asia,Southern Asia,,,False
+Sheet1,Cape Verde,"519,741","522,331",+0.50%,Africa,Western Africa,,,False
+Sheet1,Brunei,"455,370","458,949",+0.79%,Asia,South-eastern Asia,,,False
+Sheet1,Belize,"402,733","411,106",+2.08%,Americas,Central America,,,False
+Sheet1,Bahamas,"397,538","399,440",+0.48%,Americas,Caribbean,,,False
+Sheet1,Iceland,"380,356","387,558",+1.89%,Europe,Northern Europe,,,False
+Sheet1,Guadeloupe(France),"384,697","376,517",−2.13%,Americas,Caribbean,,,False
+Sheet1,Martinique(France),"349,459","346,002",−0.99%,Americas,Caribbean,,,False
+Sheet1,Vanuatu,"313,046","320,409",+2.35%,Oceania,Melanesia,,,False
+Sheet1,Mayotte(France),"305,269","316,015",+3.52%,Africa,Eastern Africa,,,False
+Sheet1,French Guiana(France),"298,306","303,402",+1.71%,Americas,South America,,,False
+Sheet1,New Caledonia(France),"287,123","289,870",+0.96%,Oceania,Melanesia,,,False
+Sheet1,Barbados,"288,318","282,336",−2.07%,Americas,Caribbean,,,False
+Sheet1,French Polynesia(France),"280,378","281,118",+0.26%,Oceania,Polynesia,,,False
+Sheet1,São Tomé and Príncipe,"226,305","230,871",+2.02%,Africa,Middle Africa,,,False
+Sheet1,Samoa,"215,261","216,663",+0.65%,Oceania,Polynesia,,,False
+Sheet1,Curaçao(Netherlands),"185,345","185,427",+0.04%,Americas,Caribbean,,,False
+Sheet1,Saint Lucia,"178,781","179,285",+0.28%,Americas,Caribbean,,,False
+Sheet1,Guam(United States),"165,180","166,506",+0.80%,Oceania,Micronesia,,,False
+Sheet1,Kiribati,"130,469","132,530",+1.58%,Oceania,Micronesia,,,False
+Sheet1,Seychelles,"125,522","127,951",+1.94%,Africa,Eastern Africa,,,False
+Sheet1,Grenada,"116,913","117,081",+0.14%,Americas,Caribbean,,,False
+Sheet1,Federated States of Micronesia,"112,114","112,630",+0.46%,Oceania,Micronesia,,,False
+Sheet1,Tonga,"105,042","104,597",−0.42%,Oceania,Polynesia,,,False
+Sheet1,Aruba(Netherlands),"107,782","107,939",+0.15%,Americas,Caribbean,,,False
+Sheet1,Jersey(United Kingdom),"103,490","103,674",+0.18%,Europe,Northern Europe,,,False
+Sheet1,Saint Vincent and the Grenadines,"102,046","101,323",−0.71%,Americas,Caribbean,,,False
+Sheet1,Antigua and Barbuda,"92,840","93,316",+0.51%,Americas,Caribbean,,,False
+Sheet1,U.S. Virgin Islands(United States),"86,507","85,701",−0.93%,Americas,Caribbean,,,False
+Sheet1,Isle of Man(United Kingdom),"84,132","84,165",+0.04%,Europe,Northern Europe,,,False
+Sheet1,Andorra,"79,705","80,856",+1.44%,Europe,Southern Europe,,,False
+Sheet1,Cayman Islands(United Kingdom),"71,591","73,038",+2.02%,Americas,Caribbean,,,False
+Sheet1,Dominica,"66,826","66,510",−0.47%,Americas,Caribbean,,,False
+Sheet1,Bermuda(United Kingdom),"64,749","64,698",−0.08%,Americas,Northern America,,,False
+Sheet1,Guernsey(United Kingdom),"63,725","64,017",+0.46%,Europe,Northern Europe,,,False
+Sheet1,Greenland(Denmark),"54,990","55,922",+1.69%,Americas,Northern America,,,False
+Sheet1,Faroe Islands(Denmark),"54,011","54,714",+1.30%,Europe,Northern Europe,,,False
+Sheet1,American Samoa(United States),"48,342","47,521",−1.70%,Oceania,Polynesia,,,False
+Sheet1,Saint Kitts and Nevis,"46,709","46,758",+0.10%,Americas,Caribbean,,,False
+Sheet1,Turks and Caicos Islands(United Kingdom),"45,847","46,198",+0.77%,Americas,Caribbean,,,False
+Sheet1,Northern Mariana Islands(United States),"46,078","45,143",−2.03%,Oceania,Micronesia,,,False
+Sheet1,Sint Maarten(Netherlands),"42,139","42,749",+1.45%,Americas,Caribbean,,,False
+Sheet1,Liechtenstein,"39,317","39,598",+0.71%,Europe,Western Europe,,,False
+Sheet1,British Virgin Islands(United Kingdom),"38,319","38,985",+1.74%,Americas,Caribbean,,,False
+Sheet1,Monaco,"38,931","38,956",+0.06%,Europe,Western Europe,,,False
+Sheet1,Gibraltar(United Kingdom),"37,609","38,471",+2.29%,Europe,Southern Europe,,,False
+Sheet1,Marshall Islands,"40,077","38,827",−3.12%,Oceania,Micronesia,,,False
+Sheet1,San Marino,"34,090","33,733",−1.05%,Europe,Southern Europe,,,False
+Sheet1,Caribbean Netherlands(Netherlands)[u],"28,627","29,898",+4.44%,Americas,Caribbean,,,False
+Sheet1,Saint Martin(France),"28,870","27,515",−4.69%,Americas,Caribbean,,,False
+Sheet1,Palau,"17,759","17,727",−0.18%,Oceania,Micronesia,,,False
+Sheet1,Anguilla(United Kingdom),"14,180","14,410",+1.62%,Americas,Caribbean,,,False
+Sheet1,Cook Islands,"14,723","14,222",−3.40%,Oceania,Polynesia,,,False
+Sheet1,Nauru,"11,801","11,875",+0.63%,Oceania,Micronesia,,,False
+Sheet1,Wallis and Futuna(France),"11,478","11,370",−0.94%,Oceania,Polynesia,,,False
+Sheet1,Saint Barthélemy(France),"10,920","11,085",+1.51%,Americas,Caribbean,,,False
+Sheet1,Tuvalu,"9,992","9,816",−1.76%,Oceania,Polynesia,,,False
+Sheet1,Saint Pierre and Miquelon(France),"5,732","5,681",−0.89%,Americas,Northern America,,,False
+Sheet1,Saint Helena(United Kingdom)[v],"5,343","5,289",−1.01%,Africa,Western Africa,,,False
+Sheet1,Montserrat(United Kingdom),"4,453","4,420",−0.74%,Americas,Caribbean,,,False
+Sheet1,Falkland Islands(United Kingdom),"3,490","3,477",−0.37%,Americas,South America,,,False
+Sheet1,Tokelau(New Zealand),"2,290","2,397",+4.67%,Oceania,Polynesia,,,False
+Sheet1,Niue,"1,821","1,817",−0.22%,Oceania,Polynesia,,,False
+Sheet1,Vatican City[w],505,496,−1.78%,Europe,Southern Europe,,,False
+Sheet1,,,,,,,Global,Current populationUnited NationsDemographics of the world,False
+Sheet1,,,,,,,Continents/subregions,AfricaAntarcticaAsiaEuropeNorth AmericaCaribbeanOceaniaSouth America,False
+Sheet1,,,,,,,Intercontinental,AmericasArab worldCommonwealth of NationsEurasiaEuropean UnionIslandsLatin AmericaMiddle East,False
+Sheet1,,,,,,,Cities/urban areas,World citiesNational capitalsMegacitiesMegalopolises,False
+Sheet1,,,,,,,Past and future,Past and future populationEstimates of historical world populationHuman population projections1100015001600170018001900193919892000200520102015Population milestones,False
+Sheet1,,,,,,,Population density,Current densityPast and future population densityPerson-to-arable land ratio,False
+Sheet1,,,,,,,Growth indicators,Population growth rateNatural increaseNet reproduction rateNumber of birthsNumber of deathsBirth rateMortality rateFertility ratePast fertility rate,False
+Sheet1,,,,,,,Life expectancy,WorldAfricaAsiaEuropeNorth AmericaOceaniaSouth Americaworld regionspast life expectancy,False
+Sheet1,,,,,,,Otherdemographics,Age at childbearingAge at first marriageAge structureDependency ratioDivorce rateEthnic and cultural diversity levelEthnic compositionImmigrant populationLinguistic diversityMedian ageNet migration rateNumber of householdsReligion/IrreligionSex ratioUrban populationUrbanization,False
+Sheet1,,,,,,,Health,Antidepressant consumptionAntiviral medications for pandemic influenzaHIV/AIDS adult prevalence rateInfant and under-five mortality ratesMaternal mortality rateObesity ratePercentage suffering from undernourishmentHealth expenditure by country by type of financingSuicide rateTotal health expenditure per capitaHealth spending as % of GDPBody mass index(BMI),False
+Sheet1,,,,,,,Education and innovation,Bloomberg Innovation IndexEducation IndexGlobal Innovation IndexInternational Innovation IndexLiteracy rateProgramme for the International Assessment of Adult CompetenciesProgramme for International Student Assessment(PISA)Progress in International Reading Literacy Study(PIRLS)Trends in International Mathematics and Science Study(TIMSS)Tertiary education attainmentWorld Intellectual Property Indicators,False
+Sheet1,,,,,,,Economic,Access to financial servicesDevelopment aid donorsOfficial Development Assistance receivedEmployment rateIrrigated land areaHuman Development Indexby countryinequality-adjustedplanetary pressures–adjusted HDIHuman Poverty IndexImportsExportsIncome inequalityLabour forceShare of income of top 1%Number of millionaires (US dollars)Number of billionaires (US dollars)Percentage living in povertyPublic sectorUnemployment rateWealth inequality,False
+Sheet1,,,,,,,List of international rankingsLists by country,,False

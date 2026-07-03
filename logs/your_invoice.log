@@ -1,0 +1,8 @@
+[2026-06-10  17:53:48] INFO - ════════════════════════════════════════
+[2026-06-10  17:53:48] INFO - Data Extractor — Job Started
+[2026-06-10  17:53:48] INFO - Input  : your_invoice.pdf
+[2026-06-10  17:53:48] INFO - Mode   : invoice
+[2026-06-10  17:53:48] INFO - Formats: csv, xlsx
+[2026-06-10  17:53:48] INFO - ════════════════════════════════════════
+[2026-06-10  17:53:48] INFO - Processing: your_invoice.pdf | Mode: invoice
+[2026-06-10  17:53:49] ERROR - Failed to process your_invoice.pdf: PDF not found: your_invoice.pdf
