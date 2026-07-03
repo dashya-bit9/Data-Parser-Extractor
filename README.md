@@ -174,6 +174,7 @@ python3 main.py test_invoice.pdf --mode invoice --format csv
 | 1    | Grand Total        |          |            | 4015.00|
 
 **Console output:**
+
 ​```
 [2026-07-03 03:30:19] INFO - Data Extractor — Job Started
 [2026-07-03 03:30:19] INFO - Input  : test_invoice.pdf
@@ -192,6 +193,7 @@ python3 main.py test_invoice.pdf --mode invoice --format csv
   Failed           : 0
   Total rows       : 6
 ══════════════════════════════════════════════════
+​
 ​```
 
 ## Job Modes
