@@ -153,6 +153,47 @@ python3 main.py invoice.pdf --mode invoice --format csv json xlsx
 
 ---
 
+## Example
+
+**Input:** `test_invoice.pdf` — a scanned invoice with a line-item table
+
+**Run:**
+​```bash
+python3 main.py test_invoice.pdf --mode invoice --format csv
+​```
+
+**Output:** `output/test_invoice.csv`
+
+| page | description       | quantity | unit_price | amount |
+|------|--------------------|----------|------------|--------|
+| 1    | Web Development    | 1        | 1500.00    | 1500.00|
+| 1    | UI Design          | 2        | 500.00     | 1000.00|
+| 1    | API Integration    | 3        | 300.00     | 900.00 |
+| 1    | SEO Optimization   | 1        | 250.00     | 250.00 |
+| 1    | Tax (10%)          |          |            | 365.00 |
+| 1    | Grand Total        |          |            | 4015.00|
+
+**Console output:**
+​```
+[2026-07-03 03:30:19] INFO - Data Extractor — Job Started
+[2026-07-03 03:30:19] INFO - Input  : test_invoice.pdf
+[2026-07-03 03:30:19] INFO - Mode   : invoice
+[2026-07-03 03:30:20] INFO - Found 1 table(s) across 1 page(s).
+[2026-07-03 03:30:20] INFO - Mapped columns: {'Description': 'description', 'Quantity': 'quantity', 'Unit Price': 'unit_price', 'Amount': 'amount'}
+[2026-07-03 03:30:20] INFO - Cleaned numeric column: unit_price
+[2026-07-03 03:30:20] INFO - Cleaned numeric column: amount
+[2026-07-03 03:30:20] INFO - Invoice processing complete. 6 row(s) returned.
+
+══════════════════════════════════════════════════
+  JOB REPORT
+══════════════════════════════════════════════════
+  Files processed  : 1
+  Succeeded        : 1
+  Failed           : 0
+  Total rows       : 6
+══════════════════════════════════════════════════
+​```
+
 ## Job Modes
 
 Job modes apply intelligent field mapping and cleaning on top of raw extraction.
